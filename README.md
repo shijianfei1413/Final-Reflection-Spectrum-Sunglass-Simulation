@@ -23,7 +23,7 @@ This project reflects on the Spectrum Sunglass Simulation, an applied analytics 
 
 ### **Final Reflection Report (PDF)**
    - **Description**: This document provides a detailed reflection on the simulation, covering the strategies employed, the outcomes observed, and the lessons learned about leading change in an organization.
-   - **[Read the Final Reflection](path-to-your-pdf-file)**
+   - **[Read the Final Reflection](https://github.com/shijianfei1413/Final-Reflection-Spectrum-Sunglass-Simulation/blob/3ea5018e76dc7a4c7dc7ba71ea00842216fb5232/Final%20Reflection%20Spectrum%20Sunglass%20Simulation.pdf)**
 
 ## Author
 - **Jianfei Shi**
